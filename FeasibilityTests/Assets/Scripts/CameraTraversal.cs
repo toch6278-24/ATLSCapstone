@@ -13,6 +13,7 @@ public class CameraTraversal : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        ######### 3
        transform.posiiton += transform.right + Time.deltaTime 
     }
 }
